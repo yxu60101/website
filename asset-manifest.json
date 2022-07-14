@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c420157.css",
-    "main.js": "/static/js/main.c72526d9.js",
-    "static/media/Rush_Poster.png": "/static/media/Rush_Poster.b1399092923104d84222.png",
-    "static/media/Home2.jpg": "/static/media/Home2.da420c73cf2a8be66965.jpg",
-    "static/media/YX_Resume.pdf": "/static/media/YX_Resume.ea2dcbc82820927e668a.pdf",
-    "static/media/Home1.jpg": "/static/media/Home1.2167b15bbcbfa4b229f7.jpg",
-    "static/media/GE.png": "/static/media/GE.e944e8d12493b44e7729.png",
-    "static/media/Home3.jpg": "/static/media/Home3.b2100ded6c7e4175dc02.jpg",
-    "static/media/YX_PFP.jpg": "/static/media/YX_PFP.328cfe7dbb601b63932c.jpg",
-    "static/media/GD.png": "/static/media/GD.476470c7c53d2f1ef6fa.png",
-    "static/media/Meta.jpg": "/static/media/Meta.6b7520ec67317730ad92.jpg",
-    "static/media/COA.png": "/static/media/COA.35e08d5037cad5db337c.png",
-    "static/media/Greenbox.png": "/static/media/Greenbox.024f74e5949bba3c7984.png",
-    "static/media/Goldman_Sachs.png": "/static/media/Goldman_Sachs.5ddd99c624267cbef0a2.png",
-    "static/media/M&T_Bank.png": "/static/media/M&T_Bank.56c46aebfa205a26f17e.png",
-    "static/media/Eversource.jpg": "/static/media/Eversource.de108d8ecfda41078d74.jpg",
-    "index.html": "/index.html",
-    "main.0c420157.css.map": "/static/css/main.0c420157.css.map",
-    "main.c72526d9.js.map": "/static/js/main.c72526d9.js.map"
+    "main.css": "/website/static/css/main.0c420157.css",
+    "main.js": "/website/static/js/main.0d102cf2.js",
+    "static/media/Rush_Poster.png": "/website/static/media/Rush_Poster.b1399092923104d84222.png",
+    "static/media/Home2.jpg": "/website/static/media/Home2.da420c73cf2a8be66965.jpg",
+    "static/media/YX_Resume.pdf": "/website/static/media/YX_Resume.ea2dcbc82820927e668a.pdf",
+    "static/media/Home1.jpg": "/website/static/media/Home1.2167b15bbcbfa4b229f7.jpg",
+    "static/media/GE.png": "/website/static/media/GE.e944e8d12493b44e7729.png",
+    "static/media/Home3.jpg": "/website/static/media/Home3.b2100ded6c7e4175dc02.jpg",
+    "static/media/YX_PFP.jpg": "/website/static/media/YX_PFP.328cfe7dbb601b63932c.jpg",
+    "static/media/GD.png": "/website/static/media/GD.476470c7c53d2f1ef6fa.png",
+    "static/media/Meta.jpg": "/website/static/media/Meta.6b7520ec67317730ad92.jpg",
+    "static/media/COA.png": "/website/static/media/COA.35e08d5037cad5db337c.png",
+    "static/media/Greenbox.png": "/website/static/media/Greenbox.024f74e5949bba3c7984.png",
+    "static/media/Goldman_Sachs.png": "/website/static/media/Goldman_Sachs.5ddd99c624267cbef0a2.png",
+    "static/media/M&T_Bank.png": "/website/static/media/M&T_Bank.56c46aebfa205a26f17e.png",
+    "static/media/Eversource.jpg": "/website/static/media/Eversource.de108d8ecfda41078d74.jpg",
+    "index.html": "/website/index.html",
+    "main.0c420157.css.map": "/website/static/css/main.0c420157.css.map",
+    "main.0d102cf2.js.map": "/website/static/js/main.0d102cf2.js.map"
   },
   "entrypoints": [
     "static/css/main.0c420157.css",
-    "static/js/main.c72526d9.js"
+    "static/js/main.0d102cf2.js"
   ]
 }
